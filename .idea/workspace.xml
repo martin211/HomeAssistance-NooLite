@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4fdf617-8dc2-45e5-9edf-daf5f86814b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HomeAssistance-NooLite.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/automations.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary_sensors.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_components/noolite/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_components/noolite/binary_sensor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_components/noolite/fan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_components/noolite/light.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_components/noolite/sensor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom_components/noolite/switch.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customize.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/groups.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/known_devices.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lights.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sensors.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/switchs.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vacuum.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zones.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository.json" beforeDir="false" afterPath="$PROJECT_DIR$/repository.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608565511934</updated>
       <workItem from="1608565513778" duration="1345000" />
+      <workItem from="1608575625091" duration="23000" />
     </task>
     <servers />
   </component>
@@ -76,5 +55,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
